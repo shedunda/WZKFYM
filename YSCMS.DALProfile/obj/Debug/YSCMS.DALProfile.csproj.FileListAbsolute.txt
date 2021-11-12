@@ -1,0 +1,14 @@
+G:\vs2k12\Yuesi\YSCMS.DALProfile\bin\Debug\YSCMS.DALProfile.dll
+G:\vs2k12\Yuesi\YSCMS.DALProfile\bin\Debug\YSCMS.DALProfile.pdb
+G:\vs2k12\Yuesi\YSCMS.DALProfile\bin\Debug\YSCMS.Config.dll
+G:\vs2k12\Yuesi\YSCMS.DALProfile\bin\Debug\YSCMS.Config.pdb
+G:\vs2k12\Yuesi\YSCMS.DALProfile\obj\Debug\YSCMS.DALProfile.csprojResolveAssemblyReference.cache
+G:\vs2k12\Yuesi\YSCMS.DALProfile\obj\Debug\YSCMS.DALProfile.dll
+G:\vs2k12\Yuesi\YSCMS.DALProfile\obj\Debug\YSCMS.DALProfile.pdb
+G:\YSCMS\YSCMS\YSCMS.DALProfile\bin\Debug\YSCMS.DALProfile.dll
+G:\YSCMS\YSCMS\YSCMS.DALProfile\bin\Debug\YSCMS.DALProfile.pdb
+G:\YSCMS\YSCMS\YSCMS.DALProfile\bin\Debug\YSCMS.Config.dll
+G:\YSCMS\YSCMS\YSCMS.DALProfile\bin\Debug\YSCMS.Config.pdb
+G:\YSCMS\YSCMS\YSCMS.DALProfile\obj\Debug\YSCMS.DALProfile.csprojResolveAssemblyReference.cache
+G:\YSCMS\YSCMS\YSCMS.DALProfile\obj\Debug\YSCMS.DALProfile.dll
+G:\YSCMS\YSCMS\YSCMS.DALProfile\obj\Debug\YSCMS.DALProfile.pdb

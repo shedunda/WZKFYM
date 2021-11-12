@@ -1,0 +1,1 @@
+﻿insert into [ys_stat_param] ([SystemName],[SystemNameE],[ipCheck],[isOnlinestat],[ipTime],[pageNum],[cookies],[pointNum],[SiteID]) values ('月思统计系统! V3.0','Yuesi Stat ',0,1,30,20,'500',2,'0');

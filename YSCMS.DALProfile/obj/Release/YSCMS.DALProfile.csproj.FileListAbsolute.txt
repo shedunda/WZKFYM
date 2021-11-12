@@ -1,0 +1,7 @@
+G:\vs2k12\Yuesi\YSCMS.DALProfile\bin\Release\YSCMS.DALProfile.dll
+G:\vs2k12\Yuesi\YSCMS.DALProfile\bin\Release\YSCMS.DALProfile.pdb
+G:\vs2k12\Yuesi\YSCMS.DALProfile\bin\Release\YSCMS.Config.dll
+G:\vs2k12\Yuesi\YSCMS.DALProfile\bin\Release\YSCMS.Config.pdb
+G:\vs2k12\Yuesi\YSCMS.DALProfile\obj\Release\YSCMS.DALProfile.csprojResolveAssemblyReference.cache
+G:\vs2k12\Yuesi\YSCMS.DALProfile\obj\Release\YSCMS.DALProfile.dll
+G:\vs2k12\Yuesi\YSCMS.DALProfile\obj\Release\YSCMS.DALProfile.pdb

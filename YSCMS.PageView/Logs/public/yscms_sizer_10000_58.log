@@ -1,0 +1,98 @@
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-05-08 09:47:49
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+□□□ 生成历史文档
+【错误描述：】
+System.Data.OleDb.OleDbException (0x80040E14): 表达式中 'Getdate' 函数未定义。
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   在 System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.OleDb.OleDbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   在 YSCMS.DALProfile.DbHelper.ExecuteTable(String connectionString, CommandType cmdType, String cmdText, DbParameter[] commandParameters) 位置 g:\vs2k12\Yuesi\YSCMS.DALProfile\DbHelper.cs:行号 322
+   在 YSCMS.DALProfile.DbHelper.ExecuteTable(CommandType cmdType, String cmdText, DbParameter[] commandParameters) 位置 g:\vs2k12\Yuesi\YSCMS.DALProfile\DbHelper.cs:行号 287
+   在 YSCMS.AccessDAL.Publish.Gethistory(Int32 Numday) 位置 g:\vs2k12\Yuesi\YSCMS.AccessDAL\Publish.cs:行号 827
+   在 YSCMS.Publish.General.PublishHistryIndex(Int32 Numday) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 851
+【UserName】   【Time】2015-05-08 09:47:49
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+发布开始时间--------------------------
+09:47:51.5545697
+【UserName】发布开始时间--------------------   【Time】2015-05-08 09:47:51
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+发布结束时间--------------------------
+09:47:51.6949700
+【UserName】发布结束时间--------------------   【Time】2015-05-08 09:47:51
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+发布开始时间--------------------------
+09:47:51.7105700
+【UserName】发布开始时间--------------------   【Time】2015-05-08 09:47:51
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+发布结束时间--------------------------
+09:47:51.9133704
+【UserName】发布结束时间--------------------   【Time】2015-05-08 09:47:51
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+发布开始时间--------------------------
+09:47:51.9445704
+【UserName】发布开始时间--------------------   【Time】2015-05-08 09:47:51
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+发布结束时间--------------------------
+09:47:51.9757705
+【UserName】发布结束时间--------------------   【Time】2015-05-08 09:47:51
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-05-08 12:08:14
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+□□□ 生成历史文档
+【错误描述：】
+System.Data.OleDb.OleDbException (0x80040E14): 表达式中 'Getdate' 函数未定义。
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   在 System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.OleDb.OleDbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   在 YSCMS.DALProfile.DbHelper.ExecuteTable(String connectionString, CommandType cmdType, String cmdText, DbParameter[] commandParameters) 位置 g:\vs2k12\Yuesi\YSCMS.DALProfile\DbHelper.cs:行号 322
+   在 YSCMS.DALProfile.DbHelper.ExecuteTable(CommandType cmdType, String cmdText, DbParameter[] commandParameters) 位置 g:\vs2k12\Yuesi\YSCMS.DALProfile\DbHelper.cs:行号 287
+   在 YSCMS.AccessDAL.Publish.Gethistory(Int32 Numday) 位置 g:\vs2k12\Yuesi\YSCMS.AccessDAL\Publish.cs:行号 827
+   在 YSCMS.Publish.General.PublishHistryIndex(Int32 Numday) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 851
+【UserName】   【Time】2015-05-08 12:08:14
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+发布开始时间--------------------------
+12:08:16.2902770
+【UserName】发布开始时间--------------------   【Time】2015-05-08 12:08:16
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+发布结束时间--------------------------
+12:08:33.2672481
+【UserName】发布结束时间--------------------   【Time】2015-05-08 12:08:33
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+发布开始时间--------------------------
+12:08:42.8557965
+【UserName】发布开始时间--------------------   【Time】2015-05-08 12:08:42
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+发布结束时间--------------------------
+12:08:45.7429616
+【UserName】发布结束时间--------------------   【Time】2015-05-08 12:08:45
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+发布开始时间--------------------------
+12:08:45.7809638
+【UserName】发布开始时间--------------------   【Time】2015-05-08 12:08:45
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+发布结束时间--------------------------
+12:08:45.8149657
+【UserName】发布结束时间--------------------   【Time】2015-05-08 12:08:45
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡

@@ -1,0 +1,14 @@
+G:\vs2k12\Yuesi\YSCMS.IDAL\bin\Debug\YSCMS.IDAL.dll
+G:\vs2k12\Yuesi\YSCMS.IDAL\bin\Debug\YSCMS.IDAL.pdb
+G:\vs2k12\Yuesi\YSCMS.IDAL\bin\Debug\YSCMS.Model.dll
+G:\vs2k12\Yuesi\YSCMS.IDAL\bin\Debug\YSCMS.Model.pdb
+G:\vs2k12\Yuesi\YSCMS.IDAL\obj\Debug\YSCMS.IDAL.csprojResolveAssemblyReference.cache
+G:\vs2k12\Yuesi\YSCMS.IDAL\obj\Debug\YSCMS.IDAL.dll
+G:\vs2k12\Yuesi\YSCMS.IDAL\obj\Debug\YSCMS.IDAL.pdb
+G:\YSCMS\YSCMS\YSCMS.IDAL\bin\Debug\YSCMS.IDAL.dll
+G:\YSCMS\YSCMS\YSCMS.IDAL\bin\Debug\YSCMS.IDAL.pdb
+G:\YSCMS\YSCMS\YSCMS.IDAL\bin\Debug\YSCMS.Model.dll
+G:\YSCMS\YSCMS\YSCMS.IDAL\bin\Debug\YSCMS.Model.pdb
+G:\YSCMS\YSCMS\YSCMS.IDAL\obj\Debug\YSCMS.IDAL.csprojResolveAssemblyReference.cache
+G:\YSCMS\YSCMS\YSCMS.IDAL\obj\Debug\YSCMS.IDAL.dll
+G:\YSCMS\YSCMS\YSCMS.IDAL\obj\Debug\YSCMS.IDAL.pdb

@@ -1,0 +1,9 @@
+G:\vs2k12\Yuesi\YSCMS.Model\bin\Debug\YSCMS.Model.dll
+G:\vs2k12\Yuesi\YSCMS.Model\bin\Debug\YSCMS.Model.pdb
+G:\vs2k12\Yuesi\YSCMS.Model\obj\Debug\YSCMS.Model.dll
+G:\vs2k12\Yuesi\YSCMS.Model\obj\Debug\YSCMS.Model.pdb
+G:\YSCMS\YSCMS\YSCMS.Model\bin\Debug\YSCMS.Model.dll
+G:\YSCMS\YSCMS\YSCMS.Model\bin\Debug\YSCMS.Model.pdb
+G:\YSCMS\YSCMS\YSCMS.Model\obj\Debug\YSCMS.Model.csprojResolveAssemblyReference.cache
+G:\YSCMS\YSCMS\YSCMS.Model\obj\Debug\YSCMS.Model.dll
+G:\YSCMS\YSCMS\YSCMS.Model\obj\Debug\YSCMS.Model.pdb

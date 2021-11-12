@@ -1,0 +1,9 @@
+G:\vs2k12\Yuesi\YSCMS.Install\bin\Release\YSCMS.Install.dll
+G:\vs2k12\Yuesi\YSCMS.Install\bin\Release\YSCMS.Install.pdb
+G:\vs2k12\Yuesi\YSCMS.Install\bin\Release\YSCMS.Config.dll
+G:\vs2k12\Yuesi\YSCMS.Install\bin\Release\YSCMS.DALProfile.dll
+G:\vs2k12\Yuesi\YSCMS.Install\bin\Release\YSCMS.Config.pdb
+G:\vs2k12\Yuesi\YSCMS.Install\bin\Release\YSCMS.DALProfile.pdb
+G:\vs2k12\Yuesi\YSCMS.Install\obj\Release\YSCMS.Install.csprojResolveAssemblyReference.cache
+G:\vs2k12\Yuesi\YSCMS.Install\obj\Release\YSCMS.Install.dll
+G:\vs2k12\Yuesi\YSCMS.Install\obj\Release\YSCMS.Install.pdb

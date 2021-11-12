@@ -1,0 +1,4 @@
+G:\vs2k12\Yuesi\YSCMS.Config\bin\Release\YSCMS.Config.dll
+G:\vs2k12\Yuesi\YSCMS.Config\bin\Release\YSCMS.Config.pdb
+G:\vs2k12\Yuesi\YSCMS.Config\obj\Release\YSCMS.Config.dll
+G:\vs2k12\Yuesi\YSCMS.Config\obj\Release\YSCMS.Config.pdb

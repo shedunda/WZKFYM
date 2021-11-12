@@ -1,0 +1,10 @@
+G:\vs2k12\Yuesi\YSCMS.Base\bin\Debug\YSCMS.Base.dll
+G:\vs2k12\Yuesi\YSCMS.Base\bin\Debug\YSCMS.Base.pdb
+G:\vs2k12\Yuesi\YSCMS.Base\obj\Debug\YSCMS.Base.dll
+G:\vs2k12\Yuesi\YSCMS.Base\obj\Debug\YSCMS.Base.pdb
+G:\vs2k12\Yuesi\YSCMS.Base\obj\Debug\YSCMS.Base.csprojResolveAssemblyReference.cache
+G:\YSCMS\YSCMS\YSCMS.Base\bin\Debug\YSCMS.Base.dll
+G:\YSCMS\YSCMS\YSCMS.Base\bin\Debug\YSCMS.Base.pdb
+G:\YSCMS\YSCMS\YSCMS.Base\obj\Debug\YSCMS.Base.csprojResolveAssemblyReference.cache
+G:\YSCMS\YSCMS\YSCMS.Base\obj\Debug\YSCMS.Base.dll
+G:\YSCMS\YSCMS\YSCMS.Base\obj\Debug\YSCMS.Base.pdb

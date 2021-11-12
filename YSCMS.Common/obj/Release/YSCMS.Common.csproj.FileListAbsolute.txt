@@ -1,0 +1,16 @@
+G:\vs2k12\Yuesi\YSCMS.Common\bin\Release\YSCMS.Common.dll
+G:\vs2k12\Yuesi\YSCMS.Common\bin\Release\YSCMS.Common.pdb
+G:\vs2k12\Yuesi\YSCMS.Common\bin\Release\COM.Excel.dll
+G:\vs2k12\Yuesi\YSCMS.Common\bin\Release\Excel.dll
+G:\vs2k12\Yuesi\YSCMS.Common\bin\Release\OpenSmtp.dll
+G:\vs2k12\Yuesi\YSCMS.Common\bin\Release\YSCMS.Config.dll
+G:\vs2k12\Yuesi\YSCMS.Common\bin\Release\YSCMS.Global.dll
+G:\vs2k12\Yuesi\YSCMS.Common\bin\Release\YSCMS.Model.dll
+G:\vs2k12\Yuesi\YSCMS.Common\bin\Release\office.dll
+G:\vs2k12\Yuesi\YSCMS.Common\bin\Release\Microsoft.Vbe.Interop.dll
+G:\vs2k12\Yuesi\YSCMS.Common\bin\Release\YSCMS.Config.pdb
+G:\vs2k12\Yuesi\YSCMS.Common\bin\Release\YSCMS.Global.pdb
+G:\vs2k12\Yuesi\YSCMS.Common\bin\Release\YSCMS.Model.pdb
+G:\vs2k12\Yuesi\YSCMS.Common\obj\Release\YSCMS.Common.csprojResolveAssemblyReference.cache
+G:\vs2k12\Yuesi\YSCMS.Common\obj\Release\YSCMS.Common.dll
+G:\vs2k12\Yuesi\YSCMS.Common\obj\Release\YSCMS.Common.pdb

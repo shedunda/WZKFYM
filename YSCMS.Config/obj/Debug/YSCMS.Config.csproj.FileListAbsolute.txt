@@ -1,0 +1,9 @@
+G:\vs2k12\Yuesi\YSCMS.Config\bin\Debug\YSCMS.Config.dll
+G:\vs2k12\Yuesi\YSCMS.Config\bin\Debug\YSCMS.Config.pdb
+G:\vs2k12\Yuesi\YSCMS.Config\obj\Debug\YSCMS.Config.dll
+G:\vs2k12\Yuesi\YSCMS.Config\obj\Debug\YSCMS.Config.pdb
+G:\YSCMS\YSCMS\YSCMS.Config\bin\Debug\YSCMS.Config.dll
+G:\YSCMS\YSCMS\YSCMS.Config\bin\Debug\YSCMS.Config.pdb
+G:\YSCMS\YSCMS\YSCMS.Config\obj\Debug\YSCMS.Config.dll
+G:\YSCMS\YSCMS\YSCMS.Config\obj\Debug\YSCMS.Config.pdb
+G:\YSCMS\YSCMS\YSCMS.Config\obj\Debug\YSCMS.Config.csprojResolveAssemblyReference.cache

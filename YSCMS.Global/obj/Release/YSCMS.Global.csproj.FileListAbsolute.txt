@@ -1,0 +1,9 @@
+G:\vs2k12\Yuesi\YSCMS.Global\bin\Release\YSCMS.Global.dll
+G:\vs2k12\Yuesi\YSCMS.Global\bin\Release\YSCMS.Global.pdb
+G:\vs2k12\Yuesi\YSCMS.Global\bin\Release\YSCMS.Config.dll
+G:\vs2k12\Yuesi\YSCMS.Global\bin\Release\YSCMS.Model.dll
+G:\vs2k12\Yuesi\YSCMS.Global\bin\Release\YSCMS.Config.pdb
+G:\vs2k12\Yuesi\YSCMS.Global\bin\Release\YSCMS.Model.pdb
+G:\vs2k12\Yuesi\YSCMS.Global\obj\Release\YSCMS.Global.csprojResolveAssemblyReference.cache
+G:\vs2k12\Yuesi\YSCMS.Global\obj\Release\YSCMS.Global.dll
+G:\vs2k12\Yuesi\YSCMS.Global\obj\Release\YSCMS.Global.pdb

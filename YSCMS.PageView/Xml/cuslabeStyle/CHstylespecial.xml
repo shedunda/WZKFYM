@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<yscmsstyle>
+  <yscmsitem>
+    <stylename>选择专题样式</stylename>
+    <stylevalue></stylevalue>
+  </yscmsitem>
+  <yscmsitem>
+    <stylename>中文名称</stylename>
+    <stylevalue>{CH#special_Name}</stylevalue>
+  </yscmsitem>
+  <yscmsitem>
+    <stylename>英文名称</stylename>
+    <stylevalue>{CH#special_Ename}</stylevalue>
+  </yscmsitem>
+  <yscmsitem>
+    <stylename>链接路径</stylename>
+    <stylevalue>{CH#special_Path}</stylevalue>
+  </yscmsitem>
+  <yscmsitem>
+    <stylename>导航文字</stylename>
+    <stylevalue>{CH#special_NaviWords}</stylevalue>
+  </yscmsitem>
+  <yscmsitem>
+    <stylename>导航图片地址</stylename>
+    <stylevalue>{CH#special_NaviPic}</stylevalue>
+  </yscmsitem>
+</yscmsstyle>
+</rss>

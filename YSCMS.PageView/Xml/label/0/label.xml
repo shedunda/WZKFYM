@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<yscmslabel>
+  <labelitem>
+      <labelname>{YS_S_页面标题}</labelname>
+      <labelid>811756126331</labelid>
+      <labelclassid>99999999</labelclassid>
+      <labelcontent><![CDATA[[YS:unLoop,YS:SiteID=0,YS:LabelType=PageTitle,YS:prefix=0$][/YS:unLoop]]]></labelcontent>
+      <labeldescription><![CDATA[]]></labeldescription>
+      <labelcreattime>2014-12-07 12:00:18</labelcreattime>
+      <labelissys>0</labelissys>
+  </labelitem>
+  <labelitem>
+      <labelname>{YS_S_Meta关键字}</labelname>
+      <labelid>772460831829</labelid>
+      <labelclassid>99999999</labelclassid>
+      <labelcontent><![CDATA[[YS:unLoop,YS:SiteID=0,YS:LabelType=Metakey,YS:MetaContent=][/YS:unLoop]]]></labelcontent>
+      <labeldescription><![CDATA[]]></labeldescription>
+      <labelcreattime>2014-12-07 12:00:18</labelcreattime>
+      <labelissys>0</labelissys>
+  </labelitem>
+  <labelitem>
+      <labelname>{YS_S_Meta描述}</labelname>
+      <labelid>481170745938</labelid>
+      <labelclassid>99999999</labelclassid>
+      <labelcontent><![CDATA[[YS:unLoop,YS:SiteID=0,YS:LabelType=MetaDesc,YS:MetaContent=][/YS:unLoop]]]></labelcontent>
+      <labeldescription><![CDATA[]]></labeldescription>
+      <labelcreattime>2014-12-07 12:00:18</labelcreattime>
+      <labelissys>0</labelissys>
+  </labelitem>
+  <labelitem>
+      <labelname>{YS_S_位置导航}</labelname>
+      <labelid>833588939393</labelid>
+      <labelclassid>99999999</labelclassid>
+      <labelcontent><![CDATA[[YS:unLoop,YS:SiteID=0,YS:LabelType=Position][/YS:unLoop]]]></labelcontent>
+      <labeldescription><![CDATA[]]></labeldescription>
+      <labelcreattime>2014-12-07 12:00:18</labelcreattime>
+      <labelissys>0</labelissys>
+  </labelitem>
+  <labelitem>
+      <labelname>{YS_S_版权信息}</labelname>
+      <labelid>121418078813</labelid>
+      <labelclassid>99999999</labelclassid>
+      <labelcontent><![CDATA[<a href="#">关于我们</a>-<a href="#">版权保护</a>-<a href="#">隐私声明</a>-<a href="#">网站帮助</a>-<a href="#">网站导航</a><br /><p><span>主办：靖安县公安局</span> <span>技术支持单位：靖安县至远信息科技有限公司</span></p>]]></labelcontent>
+      <labeldescription><![CDATA[]]></labeldescription>
+      <labelcreattime>2014-12-07 12:00:18</labelcreattime>
+      <labelissys>0</labelissys>
+  </labelitem>
+  <labelitem>
+      <labelname>{YS_S_总站导航}</labelname>
+      <labelid>589070142131</labelid>
+      <labelclassid>99999999</labelclassid>
+      <labelcontent><![CDATA[<li><a href="/">首页</a></li><li><a href="/html/gayw/">公安要闻</a></li><li><a href="/html/jajx/">靖安警讯</a></li><li><a href="/html/zfgk/">执法公开</a></li><li><a href="/html/jfts/">警方提示</a></li><li><a href="/html/zcfg/">政策法规</a></li><li><a href="/html/bszn/">办事指南</a></li><li><a href="/html/special、2015-01/jyjs/index.html">警营建设</a></li><li><a href="http://www.jxga.gov.cn:85/SjDefault.aspx?City=36092500&sid=0809" target="_blank">综合办事大厅</a></li><li><a href="/user/index.aspx">用户入口</a></li><li><a href="/manage/index.aspx">后台管理</a></li>]]></labelcontent>
+      <labeldescription><![CDATA[]]></labeldescription>
+      <labelcreattime>2015-01-20 18:42:03</labelcreattime>
+      <labelissys>0</labelissys>
+  </labelitem>
+  <labelitem>
+      <labelname>{YS_S_栏目名称}</labelname>
+      <labelid>285813435187</labelid>
+      <labelclassid>99999999</labelclassid>
+      <labelcontent><![CDATA[[YS:unLoop,YS:SiteID=0,YS:LabelType=ReadClass]{#class_Name}&nbsp;[/YS:unLoop]]]></labelcontent>
+      <labeldescription><![CDATA[]]></labeldescription>
+      <labelcreattime>2014-12-07 12:00:18</labelcreattime>
+      <labelissys>0</labelissys>
+  </labelitem>
+  <labelitem>
+      <labelname>{YS_S_栏目导航}</labelname>
+      <labelid>597025514639</labelid>
+      <labelclassid>99999999</labelclassid>
+      <labelcontent><![CDATA[[YS:unLoop,YS:SiteID=0,YS:LabelType=ClassNavi,YS:ClassID=0][/YS:unLoop]]]></labelcontent>
+      <labeldescription><![CDATA[]]></labeldescription>
+      <labelcreattime>2014-12-07 12:00:18</labelcreattime>
+      <labelissys>0</labelissys>
+  </labelitem>
+  <labelitem>
+      <labelname>{YS_S_新闻详情}</labelname>
+      <labelid>254209936090</labelid>
+      <labelclassid>99999999</labelclassid>
+      <labelcontent><![CDATA[[YS:unLoop,YS:SiteID=0,YS:LabelType=ReadNews][#YS:StyleID=502561270993][/YS:unLoop]]]></labelcontent>
+      <labeldescription><![CDATA[]]></labeldescription>
+      <labelcreattime>2014-12-07 12:00:18</labelcreattime>
+      <labelissys>0</labelissys>
+  </labelitem>
+  <labelitem>
+      <labelname>{YS_S_新闻终极}</labelname>
+      <labelid>598820836902</labelid>
+      <labelclassid>99999999</labelclassid>
+      <labelcontent><![CDATA[[YS:Loop,YS:SiteID=0,YS:LabelType=ClassList,YS:ListType=News,YS:Desc=desc,YS:DescType=pop,YS:isDiv=true,YS:TitleNumer=80,YS:PageStyle=4$$20$][#YS:StyleID=530602186870][/YS:Loop]]]></labelcontent>
+      <labeldescription><![CDATA[]]></labeldescription>
+      <labelcreattime>2014-12-07 12:00:18</labelcreattime>
+      <labelissys>0</labelissys>
+  </labelitem>
+  <labelitem>
+      <labelname>{YS_S_栏目链接}</labelname>
+      <labelid>535329158408</labelid>
+      <labelclassid>99999999</labelclassid>
+      <labelcontent><![CDATA[[YS:unLoop,YS:SiteID=0,YS:LabelType=ReadClass]{#class_Path}[/YS:unLoop]]]></labelcontent>
+      <labeldescription><![CDATA[]]></labeldescription>
+      <labelcreattime>2014-12-07 12:00:18</labelcreattime>
+      <labelissys>0</labelissys>
+  </labelitem>
+  <labelitem>
+      <labelname>{YS_S_警方提示}</labelname>
+      <labelid>596823107879</labelid>
+      <labelclassid>99999999</labelclassid>
+      <labelcontent><![CDATA[[YS:Loop,YS:SiteID=0,YS:LabelType=List,YS:Number=8,YS:NewsType=Last,YS:ClassID=845031004752,YS:Desc=desc,YS:DescType=pop,YS:isDiv=true,YS:TitleNumer=36][#YS:StyleID=162290354772][/YS:Loop]]]></labelcontent>
+      <labeldescription><![CDATA[]]></labeldescription>
+      <labelcreattime>2015-01-21 14:20:27</labelcreattime>
+      <labelissys>0</labelissys>
+  </labelitem>
+  <labelitem>
+      <labelname>{YS_S_招考信息}</labelname>
+      <labelid>820070702908</labelid>
+      <labelclassid>99999999</labelclassid>
+      <labelcontent><![CDATA[[YS:Loop,YS:SiteID=0,YS:LabelType=List,YS:Number=8,YS:NewsType=Last,YS:ClassID=082640006578,YS:Desc=desc,YS:DescType=pop,YS:isDiv=true,YS:TitleNumer=36][#YS:StyleID=162290354772][/YS:Loop]]]></labelcontent>
+      <labeldescription><![CDATA[]]></labeldescription>
+      <labelcreattime>2014-12-07 12:00:18</labelcreattime>
+      <labelissys>0</labelissys>
+  </labelitem>
+  <labelitem>
+      <labelname>{YS_S_子类新闻}</labelname>
+      <labelid>147250972433</labelid>
+      <labelclassid>99999999</labelclassid>
+      <labelcontent><![CDATA[[YS:Loop,YS:SiteID=0,YS:LabelType=List,YS:Number=8,YS:NewsType=SubNews,YS:Desc=desc,YS:DescType=date,YS:isDiv=true,YS:TitleNumer=60,YS:ColumnNumber=10,YS:ColumnCss=liel_1,YS:ColumnNewsCss=liel_1_bot,YS:ClassStyleID=032368942027][#YS:StyleID=530602186870][/YS:Loop]]]></labelcontent>
+      <labeldescription><![CDATA[]]></labeldescription>
+      <labelcreattime>2014-12-07 12:00:18</labelcreattime>
+      <labelissys>0</labelissys>
+  </labelitem>
+  <labelitem>
+      <labelname>{YS_S_靖安警讯}</labelname>
+      <labelid>154725326780</labelid>
+      <labelclassid>99999999</labelclassid>
+      <labelcontent><![CDATA[[YS:Loop,YS:SiteID=0,YS:LabelType=List,YS:Number=8,YS:NewsType=Last,YS:ClassID=235085083913,YS:Desc=desc,YS:DescType=pop,YS:isDiv=true,YS:TitleNumer=36][#YS:StyleID=162290354772][/YS:Loop]]]></labelcontent>
+      <labeldescription><![CDATA[]]></labeldescription>
+      <labelcreattime>2015-01-21 14:16:51</labelcreattime>
+      <labelissys>0</labelissys>
+  </labelitem>
+  <labelitem>
+      <labelname>{YS_S_招考信息-list}</labelname>
+      <labelid>974707767037</labelid>
+      <labelclassid>99999999</labelclassid>
+      <labelcontent><![CDATA[[YS:Loop,YS:SiteID=0,YS:LabelType=List,YS:Number=4,YS:NewsType=Last,YS:ClassID=082640006578,YS:Desc=desc,YS:DescType=pop,YS:isDiv=true,YS:isPic=false,YS:TitleNumer=36][#YS:StyleID=162290354772][/YS:Loop]]]></labelcontent>
+      <labeldescription><![CDATA[]]></labeldescription>
+      <labelcreattime>2014-12-07 12:00:18</labelcreattime>
+      <labelissys>0</labelissys>
+  </labelitem>
+  <labelitem>
+      <labelname>{YS_S_警营建设}</labelname>
+      <labelid>427547753150</labelid>
+      <labelclassid>99999999</labelclassid>
+      <labelcontent><![CDATA[[YS:Loop,YS:SiteID=0,YS:LabelType=List,YS:Number=4,YS:NewsType=Last,YS:ClassID=742675637400,YS:Desc=desc,YS:DescType=pop,YS:isDiv=true,YS:isPic=true,YS:TitleNumer=14][#YS:StyleID=835283518643][/YS:Loop]]]></labelcontent>
+      <labeldescription><![CDATA[]]></labeldescription>
+      <labelcreattime>2015-01-21 14:08:28</labelcreattime>
+      <labelissys>0</labelissys>
+  </labelitem>
+  <labelitem>
+      <labelname>{YS_S_投资信息-图}</labelname>
+      <labelid>911016195779</labelid>
+      <labelclassid>99999999</labelclassid>
+      <labelcontent><![CDATA[[YS:Loop,YS:SiteID=0,YS:LabelType=List,YS:Number=1,YS:NewsType=Last,YS:ClassID=227918010951,YS:Desc=desc,YS:DescType=pop,YS:isDiv=true,YS:isPic=true,YS:TitleNumer=14][#YS:StyleID=309119079615][/YS:Loop]]]></labelcontent>
+      <labeldescription><![CDATA[]]></labeldescription>
+      <labelcreattime>2014-12-07 12:00:18</labelcreattime>
+      <labelissys>0</labelissys>
+  </labelitem>
+  <labelitem>
+      <labelname>{YS_S_投资信息-list}</labelname>
+      <labelid>762470719352</labelid>
+      <labelclassid>99999999</labelclassid>
+      <labelcontent><![CDATA[[YS:Loop,YS:SiteID=0,YS:LabelType=List,YS:Number=4,YS:NewsType=Last,YS:ClassID=227918010951,YS:Desc=desc,YS:DescType=pop,YS:isDiv=true,YS:isPic=false,YS:TitleNumer=36][#YS:StyleID=162290354772][/YS:Loop]]]></labelcontent>
+      <labeldescription><![CDATA[]]></labeldescription>
+      <labelcreattime>2014-12-07 12:00:18</labelcreattime>
+      <labelissys>0</labelissys>
+  </labelitem>
+  <labelitem>
+      <labelname>{YS_S_旅游文化-list}</labelname>
+      <labelid>307945982258</labelid>
+      <labelclassid>99999999</labelclassid>
+      <labelcontent><![CDATA[[YS:Loop,YS:SiteID=0,YS:LabelType=List,YS:Number=4,YS:NewsType=Last,YS:ClassID=792719127790,YS:Desc=desc,YS:DescType=pop,YS:isDiv=true,YS:isPic=false,YS:TitleNumer=36][#YS:StyleID=162290354772][/YS:Loop]]]></labelcontent>
+      <labeldescription><![CDATA[]]></labeldescription>
+      <labelcreattime>2014-12-07 12:00:18</labelcreattime>
+      <labelissys>0</labelissys>
+  </labelitem>
+  <labelitem>
+      <labelname>{YS_S_旅游文化-图}</labelname>
+      <labelid>499526740974</labelid>
+      <labelclassid>99999999</labelclassid>
+      <labelcontent><![CDATA[[YS:Loop,YS:SiteID=0,YS:LabelType=List,YS:Number=1,YS:NewsType=Last,YS:ClassID=792719127790,YS:Desc=desc,YS:DescType=pop,YS:isDiv=true,YS:isPic=true,YS:TitleNumer=14][#YS:StyleID=309119079615][/YS:Loop]]]></labelcontent>
+      <labeldescription><![CDATA[]]></labeldescription>
+      <labelcreattime>2014-12-07 12:00:18</labelcreattime>
+      <labelissys>0</labelissys>
+  </labelitem>
+  <labelitem>
+      <labelname>{YS_S_招考信息-图}</labelname>
+      <labelid>324449772062</labelid>
+      <labelclassid>99999999</labelclassid>
+      <labelcontent><![CDATA[[YS:Loop,YS:SiteID=0,YS:LabelType=List,YS:Number=1,YS:NewsType=Last,YS:ClassID=082640006578,YS:Desc=desc,YS:DescType=pop,YS:isDiv=true,YS:isPic=true,YS:TitleNumer=14][#YS:StyleID=309119079615][/YS:Loop]]]></labelcontent>
+      <labeldescription><![CDATA[]]></labeldescription>
+      <labelcreattime>2014-12-07 12:00:18</labelcreattime>
+      <labelissys>0</labelissys>
+  </labelitem>
+  <labelitem>
+      <labelname>{YS_S_执法公开-list}</labelname>
+      <labelid>886890493730</labelid>
+      <labelclassid>99999999</labelclassid>
+      <labelcontent><![CDATA[[YS:Loop,YS:SiteID=0,YS:LabelType=List,YS:Number=4,YS:NewsType=Last,YS:ClassID=652238094181,YS:Desc=desc,YS:DescType=pop,YS:isDiv=true,YS:isPic=false,YS:TitleNumer=36][#YS:StyleID=162290354772][/YS:Loop]]]></labelcontent>
+      <labeldescription><![CDATA[]]></labeldescription>
+      <labelcreattime>2015-01-21 14:19:00</labelcreattime>
+      <labelissys>0</labelissys>
+  </labelitem>
+  <labelitem>
+      <labelname>{YS_S_执法公开-图}</labelname>
+      <labelid>122680716868</labelid>
+      <labelclassid>99999999</labelclassid>
+      <labelcontent><![CDATA[[YS:Loop,YS:SiteID=0,YS:LabelType=List,YS:Number=1,YS:NewsType=Last,YS:ClassID=652238094181,YS:Desc=desc,YS:DescType=pop,YS:isDiv=true,YS:isPic=true,YS:TitleNumer=14][#YS:StyleID=309119079615][/YS:Loop]]]></labelcontent>
+      <labeldescription><![CDATA[]]></labeldescription>
+      <labelcreattime>2015-01-21 14:18:05</labelcreattime>
+      <labelissys>0</labelissys>
+  </labelitem>
+  <labelitem>
+      <labelname>{YS_S_投资政策-list}</labelname>
+      <labelid>435077665076</labelid>
+      <labelclassid>99999999</labelclassid>
+      <labelcontent><![CDATA[[YS:Loop,YS:SiteID=0,YS:LabelType=List,YS:Number=8,YS:NewsType=Last,YS:ClassID=467675203254,YS:Desc=desc,YS:DescType=pop,YS:isDiv=true,YS:TitleNumer=40][#YS:StyleID=530602186870][/YS:Loop]]]></labelcontent>
+      <labeldescription><![CDATA[]]></labeldescription>
+      <labelcreattime>2014-12-07 12:00:18</labelcreattime>
+      <labelissys>0</labelissys>
+  </labelitem>
+  <labelitem>
+      <labelname>{YS_S_招商热点-list}</labelname>
+      <labelid>760987782558</labelid>
+      <labelclassid>99999999</labelclassid>
+      <labelcontent><![CDATA[[YS:Loop,YS:SiteID=0,YS:LabelType=List,YS:Number=8,YS:NewsType=Last,YS:ClassID=435169063519,YS:Desc=desc,YS:DescType=pop,YS:isDiv=true,YS:TitleNumer=40][#YS:StyleID=530602186870][/YS:Loop]]]></labelcontent>
+      <labeldescription><![CDATA[]]></labeldescription>
+      <labelcreattime>2014-12-07 12:00:18</labelcreattime>
+      <labelissys>0</labelissys>
+  </labelitem>
+  <labelitem>
+      <labelname>{YS_S_区县开发-list}</labelname>
+      <labelid>012838601483</labelid>
+      <labelclassid>99999999</labelclassid>
+      <labelcontent><![CDATA[[YS:Loop,YS:SiteID=0,YS:LabelType=List,YS:Number=8,YS:NewsType=Last,YS:ClassID=571671890666,YS:Desc=desc,YS:DescType=pop,YS:isDiv=true,YS:TitleNumer=40][#YS:StyleID=530602186870][/YS:Loop]]]></labelcontent>
+      <labeldescription><![CDATA[]]></labeldescription>
+      <labelcreattime>2014-12-07 12:00:18</labelcreattime>
+      <labelissys>0</labelissys>
+  </labelitem>
+  <labelitem>
+      <labelname>{YS_S_金融机构-list}</labelname>
+      <labelid>972029460700</labelid>
+      <labelclassid>99999999</labelclassid>
+      <labelcontent><![CDATA[[YS:Loop,YS:SiteID=0,YS:LabelType=List,YS:Number=8,YS:NewsType=Last,YS:ClassID=532219539312,YS:Desc=desc,YS:DescType=pop,YS:isDiv=true,YS:TitleNumer=40][#YS:StyleID=530602186870][/YS:Loop]]]></labelcontent>
+      <labeldescription><![CDATA[]]></labeldescription>
+      <labelcreattime>2014-12-07 12:00:18</labelcreattime>
+      <labelissys>0</labelissys>
+  </labelitem>
+  <labelitem>
+      <labelname>{YS_S_户政指南-list}</labelname>
+      <labelid>855751819166</labelid>
+      <labelclassid>99999999</labelclassid>
+      <labelcontent><![CDATA[[YS:Loop,YS:SiteID=0,YS:LabelType=List,YS:Number=8,YS:NewsType=Last,YS:ClassID=619694118615,YS:Desc=desc,YS:DescType=pop,YS:isDiv=true,YS:TitleNumer=40][#YS:StyleID=530602186870][/YS:Loop]]]></labelcontent>
+      <labeldescription><![CDATA[]]></labeldescription>
+      <labelcreattime>2015-01-21 14:22:49</labelcreattime>
+      <labelissys>0</labelissys>
+  </labelitem>
+  <labelitem>
+      <labelname>{YS_S_治安指南-list}</labelname>
+      <labelid>440021451444</labelid>
+      <labelclassid>99999999</labelclassid>
+      <labelcontent><![CDATA[[YS:Loop,YS:SiteID=0,YS:LabelType=List,YS:Number=8,YS:NewsType=Last,YS:ClassID=587874429162,YS:Desc=desc,YS:DescType=pop,YS:isDiv=true,YS:TitleNumer=40][#YS:StyleID=530602186870][/YS:Loop]]]></labelcontent>
+      <labeldescription><![CDATA[]]></labeldescription>
+      <labelcreattime>2015-01-21 14:25:38</labelcreattime>
+      <labelissys>0</labelissys>
+  </labelitem>
+  <labelitem>
+      <labelname>{YS_S_交通指南-list}</labelname>
+      <labelid>416212687956</labelid>
+      <labelclassid>99999999</labelclassid>
+      <labelcontent><![CDATA[[YS:Loop,YS:SiteID=0,YS:LabelType=List,YS:Number=8,YS:NewsType=Last,YS:ClassID=385915781646,YS:Desc=desc,YS:DescType=pop,YS:isDiv=true,YS:TitleNumer=40][#YS:StyleID=530602186870][/YS:Loop]]]></labelcontent>
+      <labeldescription><![CDATA[]]></labeldescription>
+      <labelcreattime>2015-01-21 14:27:27</labelcreattime>
+      <labelissys>0</labelissys>
+  </labelitem>
+  <labelitem>
+      <labelname>{YS_S_刑侦指南-list}</labelname>
+      <labelid>634540798795</labelid>
+      <labelclassid>99999999</labelclassid>
+      <labelcontent><![CDATA[[YS:Loop,YS:SiteID=0,YS:LabelType=List,YS:Number=8,YS:NewsType=Last,YS:ClassID=373190299098,YS:Desc=desc,YS:DescType=pop,YS:isDiv=true,YS:TitleNumer=40][#YS:StyleID=530602186870][/YS:Loop]]]></labelcontent>
+      <labeldescription><![CDATA[]]></labeldescription>
+      <labelcreattime>2015-01-21 14:34:45</labelcreattime>
+      <labelissys>0</labelissys>
+  </labelitem>
+  <labelitem>
+      <labelname>{YS_S_公安要闻-list}</labelname>
+      <labelid>456315243018</labelid>
+      <labelclassid>99999999</labelclassid>
+      <labelcontent><![CDATA[[YS:Loop,YS:SiteID=0,YS:LabelType=List,YS:Number=4,YS:NewsType=Last,YS:ClassID=127913707722,YS:Desc=desc,YS:DescType=pop,YS:isDiv=true,YS:isPic=false,YS:TitleNumer=36][#YS:StyleID=162290354772][/YS:Loop]]]></labelcontent>
+      <labeldescription><![CDATA[]]></labeldescription>
+      <labelcreattime>2015-01-21 14:12:29</labelcreattime>
+      <labelissys>0</labelissys>
+  </labelitem>
+  <labelitem>
+      <labelname>{YS_S_公安要闻-pic-navi}</labelname>
+      <labelid>357702930473</labelid>
+      <labelclassid>99999999</labelclassid>
+      <labelcontent><![CDATA[[YS:Loop,YS:SiteID=0,YS:LabelType=List,YS:Number=1,YS:NewsType=Last,YS:ClassID=127913707722,YS:Desc=desc,YS:DescType=pop,YS:isDiv=true,YS:isPic=true,YS:TitleNumer=36][#YS:StyleID=157840330621][/YS:Loop]]]></labelcontent>
+      <labeldescription><![CDATA[]]></labeldescription>
+      <labelcreattime>2015-01-21 14:11:00</labelcreattime>
+      <labelissys>0</labelissys>
+  </labelitem>
+  <labelitem>
+      <labelname>{YS_S_幻灯新闻}</labelname>
+      <labelid>417505244828</labelid>
+      <labelclassid>99999999</labelclassid>
+      <labelcontent><![CDATA[[YS:Loop,YS:SiteID=0,YS:LabelType=FlashFilt,YS:FlashType=default,YS:Number=6,YS:ClassID=-1,YS:Flashweight=290,YS:Flashheight=201,YS:FlashBG=FFFFFF,YS:TitleNumber=30,YS:ShowTitle=true][/YS:Loop]]]></labelcontent>
+      <labeldescription><![CDATA[]]></labeldescription>
+      <labelcreattime>2014-12-07 12:00:18</labelcreattime>
+      <labelissys>0</labelissys>
+  </labelitem>
+  <labelitem>
+      <labelname>{YS_S_站内搜索}</labelname>
+      <labelid>055282333491</labelid>
+      <labelclassid>99999999</labelclassid>
+      <labelcontent><![CDATA[<form id="Search_Form" name="Search_Form" method="get" action="search.html">  <input name="tags" id="tags" type="text" class="int" maxlength="20" onKeyDown="javascript:if(event.keyCode==13){SearchGo09040(this.form);}" /><input name="buttongo" id="buttongo" class="botton" type="button" value="" onClick="javascript:SearchGo09040(this.form);" /></form><script type="text/javascript">function SearchGo09040(obj){if(obj.tags.value.length<2||obj.tags.value.length>10){ alert('搜索最小长度2字符，最大长度10字符。');return false;}if(obj.tags.value==''){ alert('请填写关键字');return false;}window.location.href='/Search.html?type=news&tags='+encodeURIComponent(obj.tags.value)+'';}</script> ]]></labelcontent>
+      <labeldescription><![CDATA[]]></labeldescription>
+      <labelcreattime>2014-12-07 12:00:18</labelcreattime>
+      <labelissys>0</labelissys>
+  </labelitem>
+  <labelitem>
+      <labelname>{YS_S_专题学习-list2}</labelname>
+      <labelid>227272359209</labelid>
+      <labelclassid>99999999</labelclassid>
+      <labelcontent><![CDATA[[YS:Loop,YS:SiteID=0,YS:LabelType=List,YS:Number=6,YS:NewsType=Last,YS:ClassID=692456427176,YS:DescType=pop,YS:isDiv=true,YS:TitleNumer=80][#YS:StyleID=530602186870][/YS:Loop]]]></labelcontent>
+      <labeldescription><![CDATA[]]></labeldescription>
+      <labelcreattime>2014-12-07 12:00:18</labelcreattime>
+      <labelissys>0</labelissys>
+  </labelitem>
+  <labelitem>
+      <labelname>{YS_S_旅游文化+图}</labelname>
+      <labelid>156557701474</labelid>
+      <labelclassid>99999999</labelclassid>
+      <labelcontent><![CDATA[[YS:Loop,YS:SiteID=0,YS:LabelType=List,YS:Number=1,YS:NewsType=Last,YS:ClassID=792719127790,YS:Desc=desc,YS:DescType=pop,YS:isDiv=true,YS:isPic=true,YS:TitleNumer=14,YS:HashNaviContent=true,YS:NaviNumber=60][#YS:StyleID=611736891953][/YS:Loop]]]></labelcontent>
+      <labeldescription><![CDATA[]]></labeldescription>
+      <labelcreattime>2014-12-07 12:00:18</labelcreattime>
+      <labelissys>0</labelissys>
+  </labelitem>
+  <labelitem>
+      <labelname>{YS_S_执法公开+图}</labelname>
+      <labelid>651196408814</labelid>
+      <labelclassid>99999999</labelclassid>
+      <labelcontent><![CDATA[[YS:Loop,YS:SiteID=0,YS:LabelType=List,YS:Number=1,YS:NewsType=Last,YS:ClassID=652238094181,YS:Desc=desc,YS:DescType=pop,YS:isDiv=true,YS:isPic=true,YS:TitleNumer=14,YS:HashNaviContent=true,YS:NaviNumber=60][#YS:StyleID=611736891953][/YS:Loop]]]></labelcontent>
+      <labeldescription><![CDATA[]]></labeldescription>
+      <labelcreattime>2015-01-21 14:18:32</labelcreattime>
+      <labelissys>0</labelissys>
+  </labelitem>
+  <labelitem>
+      <labelname>{YS_S_投资信息+图}</labelname>
+      <labelid>649687998647</labelid>
+      <labelclassid>99999999</labelclassid>
+      <labelcontent><![CDATA[[YS:Loop,YS:SiteID=0,YS:LabelType=List,YS:Number=1,YS:NewsType=Last,YS:ClassID=227918010951,YS:Desc=desc,YS:DescType=pop,YS:isDiv=true,YS:isPic=true,YS:TitleNumer=14,YS:HashNaviContent=true,YS:NaviNumber=60][#YS:StyleID=611736891953][/YS:Loop]]]></labelcontent>
+      <labeldescription><![CDATA[]]></labeldescription>
+      <labelcreattime>2014-12-07 12:00:18</labelcreattime>
+      <labelissys>0</labelissys>
+  </labelitem>
+  <labelitem>
+      <labelname>{YS_S_幻灯新闻-2}</labelname>
+      <labelid>156650872030</labelid>
+      <labelclassid>99999999</labelclassid>
+      <labelcontent><![CDATA[[YS:Loop,YS:SiteID=0,YS:LabelType=FlashFilt,YS:FlashType=default,YS:Number=6,YS:ClassID=-1,YS:Flashweight=262,YS:Flashheight=206,YS:FlashBG=FFFFFF,YS:TitleNumber=30,YS:ShowTitle=true][/YS:Loop]]]></labelcontent>
+      <labeldescription><![CDATA[]]></labeldescription>
+      <labelcreattime>2014-12-07 12:00:18</labelcreattime>
+      <labelissys>0</labelissys>
+  </labelitem>
+  <labelitem>
+      <labelname>{YS_S_本级栏目导航}</labelname>
+      <labelid>140314900707</labelid>
+      <labelclassid>99999999</labelclassid>
+      <labelcontent><![CDATA[[YS:unLoop,YS:SiteID=0,YS:LabelType=SClassNavi,YS:ClassID=1][/YS:unLoop]]]></labelcontent>
+      <labeldescription><![CDATA[]]></labeldescription>
+      <labelcreattime>2014-12-07 12:00:18</labelcreattime>
+      <labelissys>0</labelissys>
+  </labelitem>
+  <labelitem>
+      <labelname>{YS_S_户政指南-list2}</labelname>
+      <labelid>200856856620</labelid>
+      <labelclassid>99999999</labelclassid>
+      <labelcontent><![CDATA[[YS:Loop,YS:SiteID=0,YS:LabelType=List,YS:Number=9,YS:NewsType=Last,YS:ClassID=619694118615,YS:Desc=desc,YS:DescType=pop,YS:isDiv=true,YS:TitleNumer=40][#YS:StyleID=162290354772][/YS:Loop]]]></labelcontent>
+      <labeldescription><![CDATA[]]></labeldescription>
+      <labelcreattime>2015-01-21 14:23:13</labelcreattime>
+      <labelissys>0</labelissys>
+  </labelitem>
+  <labelitem>
+      <labelname>{YS_S_治安指南-list2}</labelname>
+      <labelid>064105104210</labelid>
+      <labelclassid>99999999</labelclassid>
+      <labelcontent><![CDATA[[YS:Loop,YS:SiteID=0,YS:LabelType=List,YS:Number=9,YS:NewsType=Last,YS:ClassID=587874429162,YS:Desc=desc,YS:DescType=pop,YS:isDiv=true,YS:TitleNumer=40][#YS:StyleID=162290354772][/YS:Loop]]]></labelcontent>
+      <labeldescription><![CDATA[]]></labeldescription>
+      <labelcreattime>2015-01-21 14:25:15</labelcreattime>
+      <labelissys>0</labelissys>
+  </labelitem>
+  <labelitem>
+      <labelname>{YS_S_交通指南-list2}</labelname>
+      <labelid>991153570346</labelid>
+      <labelclassid>99999999</labelclassid>
+      <labelcontent><![CDATA[[YS:Loop,YS:SiteID=0,YS:LabelType=List,YS:Number=9,YS:NewsType=Last,YS:ClassID=385915781646,YS:Desc=desc,YS:DescType=pop,YS:isDiv=true,YS:TitleNumer=40][#YS:StyleID=162290354772][/YS:Loop]]]></labelcontent>
+      <labeldescription><![CDATA[]]></labeldescription>
+      <labelcreattime>2015-01-21 14:27:04</labelcreattime>
+      <labelissys>0</labelissys>
+  </labelitem>
+  <labelitem>
+      <labelname>{YS_S_专题终极列表}</labelname>
+      <labelid>069209549344</labelid>
+      <labelclassid>99999999</labelclassid>
+      <labelcontent><![CDATA[[YS:Loop,YS:SiteID=0,YS:LabelType=ClassList,YS:ListType=Special,YS:Desc=desc,YS:DescType=pop,YS:isDiv=true,YS:TitleNumer=80,YS:PageStyle=4$$20$][#YS:StyleID=530602186870][/YS:Loop]]]></labelcontent>
+      <labeldescription><![CDATA[]]></labeldescription>
+      <labelcreattime>2014-12-07 12:00:18</labelcreattime>
+      <labelissys>0</labelissys>
+  </labelitem>
+  <labelitem>
+      <labelname>{YS_S_专题导航}</labelname>
+      <labelid>104314919622</labelid>
+      <labelclassid>99999999</labelclassid>
+      <labelcontent><![CDATA[[YS:unLoop,YS:SiteID=0,YS:LabelType=SpecialNavi,YS:SpecialID=0][/YS:unLoop]]]></labelcontent>
+      <labeldescription><![CDATA[]]></labeldescription>
+      <labelcreattime>2015-01-21 14:05:19</labelcreattime>
+      <labelissys>0</labelissys>
+  </labelitem>
+</yscmslabel>
+</rss>

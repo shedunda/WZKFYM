@@ -1,0 +1,7 @@
+G:\vs2k12\Yuesi\YSCMS.IDAL\bin\Release\YSCMS.IDAL.dll
+G:\vs2k12\Yuesi\YSCMS.IDAL\bin\Release\YSCMS.IDAL.pdb
+G:\vs2k12\Yuesi\YSCMS.IDAL\bin\Release\YSCMS.Model.dll
+G:\vs2k12\Yuesi\YSCMS.IDAL\bin\Release\YSCMS.Model.pdb
+G:\vs2k12\Yuesi\YSCMS.IDAL\obj\Release\YSCMS.IDAL.csprojResolveAssemblyReference.cache
+G:\vs2k12\Yuesi\YSCMS.IDAL\obj\Release\YSCMS.IDAL.dll
+G:\vs2k12\Yuesi\YSCMS.IDAL\obj\Release\YSCMS.IDAL.pdb

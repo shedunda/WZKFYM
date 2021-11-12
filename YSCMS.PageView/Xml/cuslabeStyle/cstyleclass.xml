@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<yscmsstyle>
+  <yscmsitem>
+    <stylename>选择栏目样式</stylename>
+    <stylevalue></stylevalue>
+  </yscmsitem>
+  <yscmsitem>
+    <stylename>中文名称</stylename>
+    <stylevalue>{#class_Name}</stylevalue>
+  </yscmsitem>
+  <yscmsitem>
+    <stylename>英文名称</stylename>
+    <stylevalue>{#class_EName}</stylevalue>
+  </yscmsitem>
+  <yscmsitem>
+    <stylename>访问路径</stylename>
+    <stylevalue>{#class_Path}</stylevalue>
+  </yscmsitem>
+
+  <yscmsitem>
+    <stylename>栏目信息:导读</stylename>
+    <stylevalue>{#class_Navi}</stylevalue>
+  </yscmsitem>
+  <yscmsitem>
+    <stylename>栏目信息:导读图片地址</stylename>
+    <stylevalue>{#class_NaviPic}</stylevalue>
+  </yscmsitem>
+  <yscmsitem>
+    <stylename>栏目信息:meta关键字</stylename>
+    <stylevalue>{#class_Keywords}</stylevalue>
+  </yscmsitem>
+  <yscmsitem>
+    <stylename>栏目信息:meta描述</stylename>
+    <stylevalue>{#class_Descript}</stylevalue>
+  </yscmsitem>
+</yscmsstyle>
+</rss>

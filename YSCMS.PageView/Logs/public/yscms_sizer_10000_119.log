@@ -1,0 +1,758 @@
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 03:13:38
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+□□□ 生成历史文档
+【错误描述：】
+System.Data.OleDb.OleDbException (0x80040E14): 表达式中 'Getdate' 函数未定义。
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   在 System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.OleDb.OleDbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   在 YSCMS.DALProfile.DbHelper.ExecuteTable(String connectionString, CommandType cmdType, String cmdText, DbParameter[] commandParameters) 位置 g:\vs2k12\Yuesi\YSCMS.DALProfile\DbHelper.cs:行号 322
+   在 YSCMS.DALProfile.DbHelper.ExecuteTable(CommandType cmdType, String cmdText, DbParameter[] commandParameters) 位置 g:\vs2k12\Yuesi\YSCMS.DALProfile\DbHelper.cs:行号 287
+   在 YSCMS.AccessDAL.Publish.Gethistory(Int32 Numday) 位置 g:\vs2k12\Yuesi\YSCMS.AccessDAL\Publish.cs:行号 827
+   在 YSCMS.Publish.General.PublishHistryIndex(Int32 Numday) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 851
+【UserName】   【Time】2015-01-19 03:13:39
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 03:15:13
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+□□□ 生成历史文档
+【错误描述：】
+System.Data.OleDb.OleDbException (0x80040E14): 表达式中 'Getdate' 函数未定义。
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   在 System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.OleDb.OleDbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   在 YSCMS.DALProfile.DbHelper.ExecuteTable(String connectionString, CommandType cmdType, String cmdText, DbParameter[] commandParameters) 位置 g:\vs2k12\Yuesi\YSCMS.DALProfile\DbHelper.cs:行号 322
+   在 YSCMS.DALProfile.DbHelper.ExecuteTable(CommandType cmdType, String cmdText, DbParameter[] commandParameters) 位置 g:\vs2k12\Yuesi\YSCMS.DALProfile\DbHelper.cs:行号 287
+   在 YSCMS.AccessDAL.Publish.Gethistory(Int32 Numday) 位置 g:\vs2k12\Yuesi\YSCMS.AccessDAL\Publish.cs:行号 827
+   在 YSCMS.Publish.General.PublishHistryIndex(Int32 Numday) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 851
+【UserName】   【Time】2015-01-19 03:15:14
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 03:15:29
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 03:15:29
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 03:15:29
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 03:15:29
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 03:15:29
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 03:35:33
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+□□□ 生成历史文档
+【错误描述：】
+System.Data.OleDb.OleDbException (0x80040E14): 表达式中 'Getdate' 函数未定义。
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   在 System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.OleDb.OleDbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   在 YSCMS.DALProfile.DbHelper.ExecuteTable(String connectionString, CommandType cmdType, String cmdText, DbParameter[] commandParameters) 位置 g:\vs2k12\Yuesi\YSCMS.DALProfile\DbHelper.cs:行号 322
+   在 YSCMS.DALProfile.DbHelper.ExecuteTable(CommandType cmdType, String cmdText, DbParameter[] commandParameters) 位置 g:\vs2k12\Yuesi\YSCMS.DALProfile\DbHelper.cs:行号 287
+   在 YSCMS.AccessDAL.Publish.Gethistory(Int32 Numday) 位置 g:\vs2k12\Yuesi\YSCMS.AccessDAL\Publish.cs:行号 827
+   在 YSCMS.Publish.General.PublishHistryIndex(Int32 Numday) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 851
+【UserName】   【Time】2015-01-19 03:35:33
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 03:37:30
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 03:37:30
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 03:37:30
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 03:37:30
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 03:37:31
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 03:37:31
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 03:37:31
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 03:41:40
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 03:41:40
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 03:41:40
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 03:41:40
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 03:41:40
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 03:41:40
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 03:41:40
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 03:41:40
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 03:53:21
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+□□□ 生成历史文档
+【错误描述：】
+System.Data.OleDb.OleDbException (0x80040E14): 表达式中 'Getdate' 函数未定义。
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   在 System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.OleDb.OleDbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   在 YSCMS.DALProfile.DbHelper.ExecuteTable(String connectionString, CommandType cmdType, String cmdText, DbParameter[] commandParameters) 位置 g:\vs2k12\Yuesi\YSCMS.DALProfile\DbHelper.cs:行号 322
+   在 YSCMS.DALProfile.DbHelper.ExecuteTable(CommandType cmdType, String cmdText, DbParameter[] commandParameters) 位置 g:\vs2k12\Yuesi\YSCMS.DALProfile\DbHelper.cs:行号 287
+   在 YSCMS.AccessDAL.Publish.Gethistory(Int32 Numday) 位置 g:\vs2k12\Yuesi\YSCMS.AccessDAL\Publish.cs:行号 827
+   在 YSCMS.Publish.General.PublishHistryIndex(Int32 Numday) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 851
+【UserName】   【Time】2015-01-19 03:53:21
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 03:53:41
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 03:53:41
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 03:53:41
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 03:53:41
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 03:53:41
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 03:53:41
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 03:53:41
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 03:53:41
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 04:28:27
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+□□□ 生成历史文档
+【错误描述：】
+System.Data.OleDb.OleDbException (0x80040E14): 表达式中 'Getdate' 函数未定义。
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   在 System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.OleDb.OleDbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   在 YSCMS.DALProfile.DbHelper.ExecuteTable(String connectionString, CommandType cmdType, String cmdText, DbParameter[] commandParameters) 位置 g:\vs2k12\Yuesi\YSCMS.DALProfile\DbHelper.cs:行号 322
+   在 YSCMS.DALProfile.DbHelper.ExecuteTable(CommandType cmdType, String cmdText, DbParameter[] commandParameters) 位置 g:\vs2k12\Yuesi\YSCMS.DALProfile\DbHelper.cs:行号 287
+   在 YSCMS.AccessDAL.Publish.Gethistory(Int32 Numday) 位置 g:\vs2k12\Yuesi\YSCMS.AccessDAL\Publish.cs:行号 827
+   在 YSCMS.Publish.General.PublishHistryIndex(Int32 Numday) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 851
+【UserName】   【Time】2015-01-19 04:28:27
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 04:40:08
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 04:40:08
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 04:40:08
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 04:40:08
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 04:40:08
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 04:40:08
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 04:40:08
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 04:40:08
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 04:40:25
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+□□□ 生成历史文档
+【错误描述：】
+System.Data.OleDb.OleDbException (0x80040E14): 表达式中 'Getdate' 函数未定义。
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   在 System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.OleDb.OleDbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   在 YSCMS.DALProfile.DbHelper.ExecuteTable(String connectionString, CommandType cmdType, String cmdText, DbParameter[] commandParameters) 位置 g:\vs2k12\Yuesi\YSCMS.DALProfile\DbHelper.cs:行号 322
+   在 YSCMS.DALProfile.DbHelper.ExecuteTable(CommandType cmdType, String cmdText, DbParameter[] commandParameters) 位置 g:\vs2k12\Yuesi\YSCMS.DALProfile\DbHelper.cs:行号 287
+   在 YSCMS.AccessDAL.Publish.Gethistory(Int32 Numday) 位置 g:\vs2k12\Yuesi\YSCMS.AccessDAL\Publish.cs:行号 827
+   在 YSCMS.Publish.General.PublishHistryIndex(Int32 Numday) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 851
+【UserName】   【Time】2015-01-19 04:40:25
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 11:53:11
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 11:53:11
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 11:53:11
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 11:53:11
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 11:53:11
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 11:53:11
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 11:53:11
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 11:53:11
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 11:53:25
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+□□□ 生成历史文档
+【错误描述：】
+System.Data.OleDb.OleDbException (0x80040E14): 表达式中 'Getdate' 函数未定义。
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   在 System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.OleDb.OleDbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   在 YSCMS.DALProfile.DbHelper.ExecuteTable(String connectionString, CommandType cmdType, String cmdText, DbParameter[] commandParameters) 位置 g:\vs2k12\Yuesi\YSCMS.DALProfile\DbHelper.cs:行号 322
+   在 YSCMS.DALProfile.DbHelper.ExecuteTable(CommandType cmdType, String cmdText, DbParameter[] commandParameters) 位置 g:\vs2k12\Yuesi\YSCMS.DALProfile\DbHelper.cs:行号 287
+   在 YSCMS.AccessDAL.Publish.Gethistory(Int32 Numday) 位置 g:\vs2k12\Yuesi\YSCMS.AccessDAL\Publish.cs:行号 827
+   在 YSCMS.Publish.General.PublishHistryIndex(Int32 Numday) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 851
+【UserName】   【Time】2015-01-19 11:53:25
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 14:48:41
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 14:48:41
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 14:48:41
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 14:48:41
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 14:48:41
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 14:48:41
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 14:48:41
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 14:48:41
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 14:48:52
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+□□□ 生成历史文档
+【错误描述：】
+System.Data.OleDb.OleDbException (0x80040E14): 表达式中 'Getdate' 函数未定义。
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   在 System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.OleDb.OleDbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   在 YSCMS.DALProfile.DbHelper.ExecuteTable(String connectionString, CommandType cmdType, String cmdText, DbParameter[] commandParameters) 位置 g:\vs2k12\Yuesi\YSCMS.DALProfile\DbHelper.cs:行号 322
+   在 YSCMS.DALProfile.DbHelper.ExecuteTable(CommandType cmdType, String cmdText, DbParameter[] commandParameters) 位置 g:\vs2k12\Yuesi\YSCMS.DALProfile\DbHelper.cs:行号 287
+   在 YSCMS.AccessDAL.Publish.Gethistory(Int32 Numday) 位置 g:\vs2k12\Yuesi\YSCMS.AccessDAL\Publish.cs:行号 827
+   在 YSCMS.Publish.General.PublishHistryIndex(Int32 Numday) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 851
+【UserName】   【Time】2015-01-19 14:48:53
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 15:01:08
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+□□□ 生成历史文档
+【错误描述：】
+System.Data.OleDb.OleDbException (0x80040E14): 表达式中 'Getdate' 函数未定义。
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   在 System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.OleDb.OleDbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   在 YSCMS.DALProfile.DbHelper.ExecuteTable(String connectionString, CommandType cmdType, String cmdText, DbParameter[] commandParameters) 位置 g:\vs2k12\Yuesi\YSCMS.DALProfile\DbHelper.cs:行号 322
+   在 YSCMS.DALProfile.DbHelper.ExecuteTable(CommandType cmdType, String cmdText, DbParameter[] commandParameters) 位置 g:\vs2k12\Yuesi\YSCMS.DALProfile\DbHelper.cs:行号 287
+   在 YSCMS.AccessDAL.Publish.Gethistory(Int32 Numday) 位置 g:\vs2k12\Yuesi\YSCMS.AccessDAL\Publish.cs:行号 827
+   在 YSCMS.Publish.General.PublishHistryIndex(Int32 Numday) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 851
+【UserName】   【Time】2015-01-19 15:01:08
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 15:03:43
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+□□□ 生成历史文档
+【错误描述：】
+System.Data.OleDb.OleDbException (0x80040E14): 表达式中 'Getdate' 函数未定义。
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   在 System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.OleDb.OleDbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   在 YSCMS.DALProfile.DbHelper.ExecuteTable(String connectionString, CommandType cmdType, String cmdText, DbParameter[] commandParameters) 位置 g:\vs2k12\Yuesi\YSCMS.DALProfile\DbHelper.cs:行号 322
+   在 YSCMS.DALProfile.DbHelper.ExecuteTable(CommandType cmdType, String cmdText, DbParameter[] commandParameters) 位置 g:\vs2k12\Yuesi\YSCMS.DALProfile\DbHelper.cs:行号 287
+   在 YSCMS.AccessDAL.Publish.Gethistory(Int32 Numday) 位置 g:\vs2k12\Yuesi\YSCMS.AccessDAL\Publish.cs:行号 827
+   在 YSCMS.Publish.General.PublishHistryIndex(Int32 Numday) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 851
+【UserName】   【Time】2015-01-19 15:03:43
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 15:04:21
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+□□□ 生成历史文档
+【错误描述：】
+System.Data.OleDb.OleDbException (0x80040E14): 表达式中 'Getdate' 函数未定义。
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   在 System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.OleDb.OleDbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   在 YSCMS.DALProfile.DbHelper.ExecuteTable(String connectionString, CommandType cmdType, String cmdText, DbParameter[] commandParameters) 位置 g:\vs2k12\Yuesi\YSCMS.DALProfile\DbHelper.cs:行号 322
+   在 YSCMS.DALProfile.DbHelper.ExecuteTable(CommandType cmdType, String cmdText, DbParameter[] commandParameters) 位置 g:\vs2k12\Yuesi\YSCMS.DALProfile\DbHelper.cs:行号 287
+   在 YSCMS.AccessDAL.Publish.Gethistory(Int32 Numday) 位置 g:\vs2k12\Yuesi\YSCMS.AccessDAL\Publish.cs:行号 827
+   在 YSCMS.Publish.General.PublishHistryIndex(Int32 Numday) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 851
+【UserName】   【Time】2015-01-19 15:04:21
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 15:07:30
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+□□□ 生成历史文档
+【错误描述：】
+System.Data.OleDb.OleDbException (0x80040E14): 表达式中 'Getdate' 函数未定义。
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   在 System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.OleDb.OleDbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   在 YSCMS.DALProfile.DbHelper.ExecuteTable(String connectionString, CommandType cmdType, String cmdText, DbParameter[] commandParameters) 位置 g:\vs2k12\Yuesi\YSCMS.DALProfile\DbHelper.cs:行号 322
+   在 YSCMS.DALProfile.DbHelper.ExecuteTable(CommandType cmdType, String cmdText, DbParameter[] commandParameters) 位置 g:\vs2k12\Yuesi\YSCMS.DALProfile\DbHelper.cs:行号 287
+   在 YSCMS.AccessDAL.Publish.Gethistory(Int32 Numday) 位置 g:\vs2k12\Yuesi\YSCMS.AccessDAL\Publish.cs:行号 827
+   在 YSCMS.Publish.General.PublishHistryIndex(Int32 Numday) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 851
+【UserName】   【Time】2015-01-19 15:07:30
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 15:10:07
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 15:10:07
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 15:10:07
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 15:10:07
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 15:10:07
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 15:10:07
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 15:10:07
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 15:10:07
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 15:27:12
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 15:27:12
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 15:27:12
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 15:27:12
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 15:27:12
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 15:27:12
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 15:27:12
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 15:27:12
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 15:27:19
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+□□□ 生成历史文档
+【错误描述：】
+System.Data.OleDb.OleDbException (0x80040E14): 表达式中 'Getdate' 函数未定义。
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   在 System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.OleDb.OleDbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   在 YSCMS.DALProfile.DbHelper.ExecuteTable(String connectionString, CommandType cmdType, String cmdText, DbParameter[] commandParameters) 位置 g:\vs2k12\Yuesi\YSCMS.DALProfile\DbHelper.cs:行号 322
+   在 YSCMS.DALProfile.DbHelper.ExecuteTable(CommandType cmdType, String cmdText, DbParameter[] commandParameters) 位置 g:\vs2k12\Yuesi\YSCMS.DALProfile\DbHelper.cs:行号 287
+   在 YSCMS.AccessDAL.Publish.Gethistory(Int32 Numday) 位置 g:\vs2k12\Yuesi\YSCMS.AccessDAL\Publish.cs:行号 827
+   在 YSCMS.Publish.General.PublishHistryIndex(Int32 Numday) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 851
+【UserName】   【Time】2015-01-19 15:27:20
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+写入文件
+【错误描述：】
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 YSCMS.Publish.General.WriteHtml(String Content, String FilePath) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 1728
+【UserName】   【Time】2015-01-19 18:01:59
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+□□□ 生成历史文档
+【错误描述：】
+System.Data.OleDb.OleDbException (0x80040E14): 表达式中 'Getdate' 函数未定义。
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   在 System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.OleDb.OleDbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   在 YSCMS.DALProfile.DbHelper.ExecuteTable(String connectionString, CommandType cmdType, String cmdText, DbParameter[] commandParameters) 位置 g:\vs2k12\Yuesi\YSCMS.DALProfile\DbHelper.cs:行号 322
+   在 YSCMS.DALProfile.DbHelper.ExecuteTable(CommandType cmdType, String cmdText, DbParameter[] commandParameters) 位置 g:\vs2k12\Yuesi\YSCMS.DALProfile\DbHelper.cs:行号 287
+   在 YSCMS.AccessDAL.Publish.Gethistory(Int32 Numday) 位置 g:\vs2k12\Yuesi\YSCMS.AccessDAL\Publish.cs:行号 827
+   在 YSCMS.Publish.General.PublishHistryIndex(Int32 Numday) 位置 g:\vs2k12\Yuesi\YSCMS.Publish\General.cs:行号 851
+【UserName】   【Time】2015-01-19 18:01:59
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡

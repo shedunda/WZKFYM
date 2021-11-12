@@ -1,0 +1,4 @@
+G:\vs2k12\Yuesi\YSCMS.Base\bin\Release\YSCMS.Base.dll
+G:\vs2k12\Yuesi\YSCMS.Base\bin\Release\YSCMS.Base.pdb
+G:\vs2k12\Yuesi\YSCMS.Base\obj\Release\YSCMS.Base.dll
+G:\vs2k12\Yuesi\YSCMS.Base\obj\Release\YSCMS.Base.pdb
